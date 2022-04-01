@@ -1,29 +1,10 @@
-# Nuxt 3 Minimal Starter
+# CPNT-262 / Assignment 2 - Vue/Nuxt Landing Page / Bryan Velasco
 
-We recommend to look at the [documentation](https://v3.nuxtjs.org).
+## TODO
 
-## Setup
-
-Make sure to install the dependencies
-
-```bash
-yarn install
-```
-
-## Development
-
-Start the development server on http://localhost:3000
-
-```bash
-yarn dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-yarn build
-```
-
-Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment).
+- Create a Nuxt 3 project
+- Use any Nuxt module that will improve your site
+- Create components that could be reused on the other pages
+- Use props and slots where applicable
+- Style the site
+- Deploy your site to Netlify
