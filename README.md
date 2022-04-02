@@ -8,3 +8,19 @@
 - Use props and slots where applicable
 - Style the site
 - Deploy your site to Netlify
+
+---
+
+## Progress
+
+- Started a new Nuxt 3 project.
+
+- Spend most of the first day lookin at what I want to do and use for this assignment.
+
+- Made a header and footer that will live on the `app.vue` so that I can maintain a consistent layout.
+
+- I added extra folders into my pages folder so that I could test out how the layout from the `app.vue` page is carrying over and making sure I did it right.
+
+- Page more rendering and getting and issue.
+
+- FIXED! Instead of using `<NuxtPage />`, I used `<NuxtPages />`. Fortunately it did not take very long to figure out.
