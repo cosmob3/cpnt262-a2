@@ -1,3 +1,3 @@
 <template>
-  <h1>THIS IS THE PORTFOLIO PAGE</h1>
+  <h1>HIS IS THE PORTFOLIO PAGE</h1>
 </template>
