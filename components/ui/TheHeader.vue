@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-row">
+  <div class="flex justify-around">
     <div>
       <a href="#">
         <svg
@@ -112,10 +112,12 @@
         </svg>
       </a>
     </div>
-    <ul>
-      <a href="#"><li>Links</li></a>
-      <a href="#"><li>Links</li></a>
-      <a href="#"><li>Links</li></a>
-    </ul>
+    <div class="flex flex-row place-items-center">
+      <ul class="flex flex-row gap-20 place-items-center">
+        <a href="#"><li>Links</li></a>
+        <a href="#"><li>Links</li></a>
+        <a href="#"><li>Links</li></a>
+      </ul>
+    </div>
   </div>
 </template>
