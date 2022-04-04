@@ -1,10 +1,8 @@
 <template>
-  <div>
+  <div class="nav">
     <div>
       <a href="#">
         <svg
-          width="500"
-          height="400"
           viewBox="0 0 500 400"
           fill="none"
           xmlns="http://www.w3.org/2000/svg"
@@ -122,15 +120,18 @@
 </template>
 
 <style scoped>
-.logo {
+.nav {
   display: flex;
-  flex-direction: column;
-  align-self: center;
+  flex-direction: row;
 }
 
 ul {
   display: flex;
-  flex-direction: row;
   justify-content: space-around;
+  margin: 13rem;
+}
+
+svg {
+  width: 13rem;
 }
 </style>

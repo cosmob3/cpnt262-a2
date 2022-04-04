@@ -24,3 +24,7 @@
 - Page more rendering and getting and issue.
 
 - FIXED! Instead of using `<NuxtPage />`, I used `<NuxtPages />`. Fortunately it did not take very long to figure out.
+
+--- Another day
+
+- Going to add tailwind. Tried to ued vanilla css but its taking me to long to scroll up and down to see what I need to do and what I am affecting.
