@@ -1,8 +1,9 @@
 <template>
-  <div class="nav">
+  <div class="flex flex-row">
     <div>
       <a href="#">
         <svg
+          class="w-52"
           viewBox="0 0 500 400"
           fill="none"
           xmlns="http://www.w3.org/2000/svg"
@@ -118,20 +119,3 @@
     </ul>
   </div>
 </template>
-
-<style scoped>
-.nav {
-  display: flex;
-  flex-direction: row;
-}
-
-ul {
-  display: flex;
-  justify-content: space-around;
-  margin: 13rem;
-}
-
-svg {
-  width: 13rem;
-}
-</style>

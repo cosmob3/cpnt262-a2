@@ -28,3 +28,5 @@
 --- Another day
 
 - Going to add tailwind. Tried to ued vanilla css but its taking me to long to scroll up and down to see what I need to do and what I am affecting.
+
+- Successfully added tailwind.
