@@ -37,3 +37,11 @@
 - Started working on navigation bar so that you are able to jump between pages. There will only be some sample text on other pages but I wanted to make sure the navigation bar worked.
 
 - Finished Navbar. Now to work on Hero section.
+
+- The Hero Section wasn't too hard to do but I will need to make a reusable cta to add to The Hero.
+
+- Needed to rotate my images a bit to give it some extra styles but when I used tailwind to do so it only allow up to 180 degrees counter clockwise but I needed the image 45 degrees clockwise.
+
+- So I just found out if you add a `-` before`rotate-12` as so `-rotate-12` then it will go clockwise!!!
+
+-
