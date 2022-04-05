@@ -1,25 +1,15 @@
 <template>
-  <footer>
-    <section>
-      <a href="#"><img src="" alt="Social Media Icon" /></a>
+  <footer class="flex bg-black p-8 justify-around">
+    <section class="flex justify-start">
+      <a href="#"
+        ><img
+          class="text-white w-auto"
+          src="../../assets/images/instagram-icon.svg"
+          alt="Social Media Icon"
+      /></a>
     </section>
-    <div>
-      <p>&copy; Bryan Velasco 2022</p>
+    <div class="flex items-center">
+      <p class="text-white text-2xl">&copy; Bryan Velasco 2022</p>
     </div>
   </footer>
 </template>
-
-<style scoped>
-footer {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-evenly;
-  align-items: center;
-}
-
-section {
-  display: flex;
-  flex-direction: row;
-  justify-content: flex-start;
-}
-</style>

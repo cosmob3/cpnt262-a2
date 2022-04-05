@@ -8,12 +8,18 @@
 
 - Photo of Ashlyn by [Melodic Imagery](https://www.melodicimagery.com/p726233554/e13addccb) (Not the exact photo used but from the same shoot)
 
+- Photo of Family by [Pixabay](https://www.pexels.com/photo/cute-family-picture-160994/) from Pexels
+
+- Photo of Flowers and Heels by [Terje Sollie](https://www.pexels.com/photo/wedding-preparation-313707/) from Pexels
+
+- Photo of Graduation by [Pixabay](https://www.pexels.com/photo/newly-graduated-people-wearing-black-academy-gowns-throwing-hats-up-in-the-air-267885/) from Pexels
+
 ## TODO
 
 - X Create a Nuxt 3 project
 - X Use any Nuxt module that will improve your site
 - X Create components that could be reused on the other pages
-- Use props and slots where applicable
+- X Use props and slots where applicable
 - X Style the site
 - Deploy your site to Netlify
 
@@ -54,3 +60,11 @@
 - Bio section was super easy.
 
 - Now to make some cards. I think I'll revisit my achievement 7 and use that for my cards.
+
+- Using those cards was really usedful. Definitely sped things up.
+
+- Just had to remove what I didn't need and to style them a bit.
+
+- Landing page is finished!
+
+- Now to quickly make it responsive.

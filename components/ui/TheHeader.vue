@@ -110,7 +110,7 @@
             </filter>
           </defs>
         </svg>
-        <p class="text-2xl">AshLens Photography</p>
+        <p class="text-3xl hover:text-teal-500">AshLens Photography</p>
       </a>
     </div>
     <div class="flex flex-row place-items-center">
