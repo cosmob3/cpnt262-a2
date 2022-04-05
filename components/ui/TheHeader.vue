@@ -1,7 +1,7 @@
 <template>
   <div class="flex justify-around">
     <div>
-      <a href="#">
+      <a href="/">
         <svg
           class="w-52"
           viewBox="0 0 500 400"
@@ -113,11 +113,7 @@
       </a>
     </div>
     <div class="flex flex-row place-items-center">
-      <ul class="flex flex-row gap-20 place-items-center">
-        <a href="#"><li>Links</li></a>
-        <a href="#"><li>Links</li></a>
-        <a href="#"><li>Links</li></a>
-      </ul>
+      <NavigationBar />
     </div>
   </div>
 </template>

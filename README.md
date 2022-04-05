@@ -30,3 +30,7 @@
 - Going to add tailwind. Tried to ued vanilla css but its taking me to long to scroll up and down to see what I need to do and what I am affecting.
 
 - Successfully added tailwind.
+
+- Started working on navigation bar so that you are able to jump between pages. There will only be some sample text on other pages but I wanted to make sure the navigation bar worked.
+
+- Finished Navbar. Now to work on Hero section.

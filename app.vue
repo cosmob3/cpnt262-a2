@@ -1,7 +1,7 @@
 <template>
   <header></header>
   <TheHeader />
-  <main>
+  <main class="h-screen">
     <NuxtPage />
   </main>
   <footer>
