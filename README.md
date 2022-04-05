@@ -76,3 +76,5 @@
 - Trying to deploy landing page is giving me an error.
 
 - Tried a few things out but I decided to just remove the image that kept giving me the error.
+
+- Still having the issue, going to try something else.

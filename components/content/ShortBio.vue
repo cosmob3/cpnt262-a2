@@ -23,7 +23,7 @@
     <div class="sm:col-span-2 lg:col-span-1">
       <img
         class="sm:w-full"
-        src="../../assets/images/Photo of Ashlyn.jpg"
+        src="../../assets/images/photo-of-ashlyn.jpg"
         alt="Self-portrait"
       />
     </div>

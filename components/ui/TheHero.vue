@@ -9,7 +9,7 @@
         />
         <img
           class="w-1/3 rotate-3"
-          src="../../assets/images/Man in Black.jpg"
+          src="../../assets/images/man-in-black.jpg"
           alt="Man in Black"
         />
       </div>
