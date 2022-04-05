@@ -5,7 +5,7 @@
     <!-- Card 1 -->
     <AppCard :title="'Family Photos'">
       <template #card-image>
-        <img src="../assets/images/family-photo.jpg" alt="Family Photo" />
+        <img src="../public/images/family-photo.jpg" alt="Family Photo" />
       </template>
     </AppCard>
 
@@ -13,7 +13,7 @@
     <AppCard :title="'Weddings'">
       <template #card-image>
         <img
-          src="../assets/images/flowers-n-heels.jpg"
+          src="../public/images/flowers-n-heels.jpg"
           alt="Flowers and Heels Photo"
         />
       </template>
@@ -22,7 +22,7 @@
     <!-- Card 3 -->
     <AppCard :title="'Other Special Events'">
       <template #card-image>
-        <img src="../assets/images/graduation.jpg" alt="Graduation Photo" />
+        <img src="../public/images/graduation.jpg" alt="Graduation Photo" />
       </template>
     </AppCard>
   </div>

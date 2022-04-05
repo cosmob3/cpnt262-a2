@@ -4,7 +4,7 @@
       <a href="#"
         ><img
           class="text-white w-auto"
-          src="../../assets/images/instagram-icon.svg"
+          src="../../public/images/instagram-icon.svg"
           alt="Social Media Icon"
       /></a>
     </section>

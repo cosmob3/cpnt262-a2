@@ -4,12 +4,12 @@
       <div class="flex flex-wrap justify-evenly">
         <img
           class="w-1/3 -rotate-12"
-          src="../../assets/images/couple-at-night.jpg"
+          src="../../public/images/couple-at-night.jpg"
           alt="Couple in the night"
         />
         <img
           class="w-1/3 rotate-3"
-          src="../../assets/images/man-in-black.jpg"
+          src="../../public/images/man-in-black.jpg"
           alt="Man in Black"
         />
       </div>
