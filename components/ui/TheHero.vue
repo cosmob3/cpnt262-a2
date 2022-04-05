@@ -4,8 +4,8 @@
       <div class="flex flex-wrap justify-evenly">
         <img
           class="w-1/3 -rotate-12"
-          src="../../assets/images/Flower Lady.jpg"
-          alt="Flower Lady"
+          src="../../assets/images/couple-at-night.jpg"
+          alt="Couple in the night"
         />
         <img
           class="w-1/3 rotate-3"
