@@ -83,4 +83,6 @@
 
 - Well the web page deployed but none of my images are showing up.
 
+- Moved them out of /assets into /public to see if that'll work but nothing.
+
 - This is an issue I want to look into further but for now I need to hand this assignment in.
