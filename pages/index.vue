@@ -1,7 +1,7 @@
 <template>
   <TheHero />
   <ShortBio />
-  <div class="flex justify-evenly py-10">
+  <div class="flex sm:flex-col md:flex-row justify-evenly py-10">
     <!-- Card 1 -->
     <AppCard :title="'Family Photos'">
       <template #card-image>

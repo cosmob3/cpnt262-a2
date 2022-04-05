@@ -68,3 +68,7 @@
 - Landing page is finished!
 
 - Now to quickly make it responsive.
+
+- DONE! OMG I thought that was going to be the easy part... :'(
+
+- I can now see the benefit starting a project with the mobile first mindset.

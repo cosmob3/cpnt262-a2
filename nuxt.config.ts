@@ -2,6 +2,6 @@ import { defineNuxtConfig } from "nuxt3";
 
 // https://v3.nuxtjs.org/docs/directory-structure/nuxt.config
 export default defineNuxtConfig({
-  components: ["~/components", "~/components/ui", "~/components/layout"],
+  components: ["~/components", "~/components/ui", "~/components/content"],
   buildModules: ["@nuxtjs/tailwindcss"],
 });

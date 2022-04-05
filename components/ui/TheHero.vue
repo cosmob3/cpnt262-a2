@@ -1,7 +1,7 @@
 <template>
-  <section class="grid grid-cols-3 py-10">
+  <section class="grid sm:grid-cols-1 md:grid-cols-3 py-10">
     <div class="col-span-2">
-      <div class="flex justify-evenly">
+      <div class="flex flex-wrap justify-evenly">
         <img
           class="w-1/3 -rotate-12"
           src="../../assets/images/Flower Lady.jpg"
