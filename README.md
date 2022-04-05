@@ -3,13 +3,18 @@
 ## Attributions
 
 - Photo of Woman with Flower in Mouth by [Arianna Jadé](https://www.pexels.com/photo/woman-in-brown-and-black-leopard-coat-4754648/) from Pexels
+
 - Photo of Man in Black by [mohamed abdelghaffar](https://www.pexels.com/photo/man-in-black-jacket-771742/) from Pexels
 
+- Photo of Ashlyn by [Melodic Imagery](https://www.melodicimagery.com/p726233554/e13addccb) (Not the exact photo used but from the same shoot)
+
+## TODO
+
 - X Create a Nuxt 3 project
-- Use any Nuxt module that will improve your site
-- Create components that could be reused on the other pages
+- X Use any Nuxt module that will improve your site
+- X Create components that could be reused on the other pages
 - Use props and slots where applicable
-- Style the site
+- X Style the site
 - Deploy your site to Netlify
 
 ---
@@ -44,4 +49,8 @@
 
 - So I just found out if you add a `-` before`rotate-12` as so `-rotate-12` then it will go clockwise!!!
 
-- Time to work on short bio section
+- Time to work on short bio section.
+
+- Bio section was super easy.
+
+- Now to make some cards. I think I'll revisit my achievement 7 and use that for my cards.
