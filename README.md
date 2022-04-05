@@ -21,7 +21,7 @@
 - X Create components that could be reused on the other pages
 - X Use props and slots where applicable
 - X Style the site
-- Deploy your site to Netlify
+- X Deploy your site to Netlify
 
 ---
 
@@ -82,3 +82,5 @@
 - Changed the names of the images so that there are no spaces in the names.
 
 - Well the web page deployed but none of my images are showing up.
+
+- This is an issue I want to look into further but for now I need to hand this assignment in.
