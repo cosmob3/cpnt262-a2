@@ -78,3 +78,7 @@
 - Tried a few things out but I decided to just remove the image that kept giving me the error.
 
 - Still having the issue, going to try something else.
+
+- Changed the names of the images so that there are no spaces in the names.
+
+- Well the web page deployed but none of my images are showing up.
