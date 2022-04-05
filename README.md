@@ -1,6 +1,9 @@
 # CPNT-262 / Assignment 2 - Vue/Nuxt Landing Page / Bryan Velasco
 
-## TODO
+## Attributions
+
+- Photo of Woman with Flower in Mouth by [Arianna Jadé](https://www.pexels.com/photo/woman-in-brown-and-black-leopard-coat-4754648/) from Pexels
+- Photo of Man in Black by [mohamed abdelghaffar](https://www.pexels.com/photo/man-in-black-jacket-771742/) from Pexels
 
 - X Create a Nuxt 3 project
 - Use any Nuxt module that will improve your site

@@ -1,7 +1,7 @@
 <template>
-  <div class="flex justify-around">
+  <div class="flex justify-around py-12">
     <div>
-      <a href="/">
+      <a class="flex place-items-center" href="/">
         <svg
           class="w-52"
           viewBox="0 0 500 400"
@@ -110,6 +110,7 @@
             </filter>
           </defs>
         </svg>
+        <p class="text-2xl">AshLens Photography</p>
       </a>
     </div>
     <div class="flex flex-row place-items-center">
