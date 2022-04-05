@@ -44,4 +44,4 @@
 
 - So I just found out if you add a `-` before`rotate-12` as so `-rotate-12` then it will go clockwise!!!
 
--
+- Time to work on short bio section
