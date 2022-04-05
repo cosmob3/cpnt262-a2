@@ -72,3 +72,7 @@
 - DONE! OMG I thought that was going to be the easy part... :'(
 
 - I can now see the benefit starting a project with the mobile first mindset.
+
+- Trying to deploy landing page is giving me an error.
+
+- Tried a few things out but I decided to just remove the image that kept giving me the error.
